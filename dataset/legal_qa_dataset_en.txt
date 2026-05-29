@@ -1,0 +1,100 @@
+Does copyright require registration to be protected?	No. Copyright follows the 'no-formality' principle, meaning protection begins automatically upon creation without registration.
+Who owns the code created during work hours at a company?	Unless otherwise specified in the contract, works created for hire under the company's planning belong to the company.
+Is it okay to use 3 seconds of background music in a YouTube video?	Regardless of length, using copyrighted music without permission theoretically constitutes infringement.
+Do AI-generated images have copyright?	Under current law, a work must express 'human thoughts and emotions,' making it difficult for AI-generated works to be recognized.
+Are there penalties for violating open-source licenses?	Yes. Violating an open-source license is considered copyright infringement and can lead to legal liability.
+Is uploading font files to a blog an infringement?	Distributing font files (software) without permission constitutes a violation of copyright law.
+What about downloading movies for personal collection?	Reproduction for private use is allowed, but one should avoid downloading files known to be illegally uploaded.
+What is the difference between plagiarism and copyright infringement?	Plagiarism is an ethical issue, while copyright infringement is a legal crime punishable by law.
+How long does copyright protection last?	Generally, it lasts for 70 years after the death of the author.
+Can I copy and paste news articles?	News articles are copyrighted works; copying analytical articles beyond simple factual reporting is an infringement.
+Is it okay to draw a character based on an existing one?	Creating a derivative work by taking creative elements from a character requires the original creator's permission.
+Can I copy parts of a book for class use?	Use for educational purposes is partially allowed under copyright law, but compensation may be required.
+Can I upload a cover of a singer's song to YouTube?	Even if you don't use the original audio, you must obtain permission from the copyright holder or follow revenue-sharing procedures.
+What about using movie scenes for a movie review?	Fair use of published works for reporting, criticism, or education is generally permitted within reasonable limits.
+Is there copyright on traditional folk songs?	Folk songs are usually in the public domain as their protection period has expired.
+Who owns the copyright of a translated novel?	The translator has the copyright as a derivative work, but they must first obtain permission from the original author.
+Is broadcasting game-play videos an infringement?	It depends on the game company's terms, but most allow it for promotional effects.
+Can I record and distribute lecture contents?	Lectures are oral works; distribution without the instructor's consent is prohibited.
+Is it okay to repost a blog post if I credit the source?	Even with credit, reposting without the original author's permission is still an infringement.
+Can I copy an entire book at a library?	Reproduction in a library beyond the scope of private use, such as copying a whole book, is illegal.
+Can I freely use the writings of a deceased author?	Yes, if 70 years have passed since their death, but use that defames the author is prohibited.
+Can I use a webtoon screenshot as an SNS profile picture?	Non-commercial personal use is often tolerated, but technically it involves reproduction rights issues.
+Are food recipes protected by copyright?	Simple cooking methods (ideas) are not protected, but creatively written texts or videos describing them are.
+Do architectural designs have copyright?	Yes. Buildings with a creative appearance are protected as architectural works.
+Can I film and upload a street performance?	Performers have 'neighboring rights,' so filming and distributing for profit can be problematic.
+Can I use a sports broadcast screenshot for news?	It is possible within the scope of fair use, but using it for commercial advertising is an infringement.
+Is map design subject to copyright protection?	Yes. Maps that creatively express geographical information are protected as graphic works.
+Is it okay to lend my program license to others?	Most are 1-person-1-contract; lending may violate terms and infringe on copyright.
+Is a similar code structure always an infringement?	Structures essential for functionality might not be protected, but creative arrangements are.
+Is taking and posting a photo without consent a copyright issue?	That is more of a 'right to portrait' or privacy issue than a copyright issue.
+Can I make a video of myself reading a children's book?	Reciting the contents of a children's book can infringe on reproduction and public transmission rights.
+Is stealing someone else's idea a copyright violation?	Copyright law protects 'expression,' not the 'idea' itself.
+Does the university own the copyright of a graduation thesis?	No. The copyright of the thesis belongs to the student who wrote it.
+Can I use works from Gongu Madang (Public Domain) freely?	Yes, as long as you follow the CCL conditions, such as citing the source.
+Are titles or slogans protected by copyright?	Phrases that are too short often lack sufficient creativity to be recognized as works.
+Is computer UI design protected?	Yes. Original configurations and layouts can be protected as applied art or design rights.
+Can I reverse-engineer game source code?	Unauthorized reverse engineering is likely an infringement, except for essential interoperability cases.
+Do databases have copyright?	If the database producer has made a significant investment, their rights are protected.
+Is ad copy protected?	Long, creative slogans can be, but short, simple phrases are difficult to protect.
+What about imitating a TV program format?	If the specific configuration method is original, it can be judged as copyright infringement.
+Can I work without signing a labor contract?	It is possible, but for future dispute prevention, it must be written and delivered in writing.
+Who can receive weekly holiday allowance?	Any worker who works more than 15 hours a week and has perfect attendance for the agreed days.
+Do workplaces with fewer than 5 employees have annual leave?	Under current law, annual paid leave regulations do not apply to businesses with fewer than 5 employees.
+Can I be paid less than the minimum wage during probation?	For contracts over 1 year, 90% of the minimum wage can be paid during the first 3 months of probation.
+When does the night shift allowance apply?	A 1.5x wage rate applies for work performed between 10:00 PM and 6:00 AM the next day.
+Do part-time workers get retirement pay?	Workers who have worked for more than a year and average over 15 hours a week are eligible.
+Do I have to leave immediately if the boss tells me to quit?	Dismissal must be notified 30 days in advance, or an allowance of at least 30 days' pay must be given.
+Where should I report unpaid wages?	You should file a petition with the local labor office (Ministry of Employment and Labor).
+How much break time is guaranteed?	At least 30 minutes for 4 hours of work, and 1 hour for 8 hours of work.
+Can I be forced to do unlimited overtime?	Overtime is limited to a maximum of 12 hours per week (52-hour work week total).
+When is the legal minimum wage decided each year?	The Minister of Employment and Labor decides and announces it by August 5th of every year.
+Is lunch hour included in work hours?	Unless under the employer's direct supervision, it is considered break time and is excluded.
+Can my salary be deducted if I am late?	Deducting pay for the actual time late is possible, but setting a penalty beyond that is illegal.
+Can I go to the hospital during work hours?	It requires the employer's approval and that time may be processed as unpaid.
+Can I get paid for unused annual leave?	Unused annual leave should be compensated with an allowance in principle.
+When must retirement pay be given after quitting?	It must be paid within 14 days after retirement, though the period can be extended by agreement.
+Can meal costs be deducted separately from my salary?	It depends on the labor contract terms; attention is needed regarding the minimum wage calculation.
+Does the Labor Standards Act apply to family businesses?	The Act does not apply to businesses that only employ relatives living in the same household.
+Is a dismissal invalid if the reason is not given in writing?	Yes. A dismissal without written notice of the reason and timing is invalid.
+Is the meeting time before work considered work hours?	Meetings attended under the employer's mandatory instructions are considered work hours.
+Do short-term part-timers need industrial accident insurance?	Industrial accident insurance is mandatory even for workers employed for just one day.
+Can I receive my wages in gift vouchers?	No. Wages must be paid in full and in currency (cash) as a principle.
+Is the allowance different for surveillance or intermittent workers?	Security guards may be excluded from weekly holiday or overtime pay if approved.
+Can my salary be withheld if I don't provide a handover?	Regardless of the handover, wages for the work performed must be paid.
+Is parental consent needed for minors to work?	Yes. A family relationship certificate and a parental (legal guardian) consent form are required.
+Can I use my annual leave whenever I want?	In principle, it should be given when requested, but the timing can be changed if it greatly hinders operations.
+How long is parental leave?	A maximum of 1 year can be used per child under the age of 8.
+Is menstrual leave paid or unpaid?	Under the Act, 1 day of unpaid leave per month must be given if a female worker requests it.
+Is attending a company dinner considered work hours?	Dinners are generally for social purposes; they are difficult to recognize as work hours even if coerced.
+Is overtime prohibited for pregnant employees?	Yes. Overtime is prohibited for pregnant women, and they must be transferred to lighter duties if requested.
+What is a fixed-sum (inclusive) wage system?	A system where overtime pay is pre-calculated into the monthly salary; if actual work is more, the difference must be paid.
+What should I do if I am bullied at work?	Report it to the employer; if the employer fails to take action, you can report it to the labor office.
+Is violating a ban on office dating a ground for dismissal?	It highly likely constitutes unfair dismissal as it interferes with personal privacy and freedom.
+What is a flexible work arrangement?	A system where work hours or locations are chosen, such as staggered commuting or telecommuting.
+Is a recommended resignation different from a dismissal?	Recommended resignation is a mutual agreement to quit, while dismissal is a unilateral notice by the employer.
+Is the travel time for a business trip considered work hours?	Time exceeding normal commuting time and spent under employer instructions can be seen as work hours.
+Is waiting time included in work hours?	Waiting time, such as waiting for customers under employer supervision, is considered work hours.
+Is the weekly holiday allowance 0 won if I don't complete the work days?	If you are not present on the agreed work days, the allowance for that week is not generated.
+How much can be deducted for a disciplinary salary cut?	The deduction cannot exceed one-tenth of the total monthly salary.
+What is the retirement age?	The legal retirement age is set at 60 years or older.
+Is simple link sharing a copyright infringement?	According to Supreme Court precedents, simple links to a website's main screen are not seen as aiding infringement.
+Do parody videos receive copyright protection?	If there is no commercial purpose and the critical transformation is clear, it can be recognized as fair use.
+Can I work for a competitor after resigning?	If a non-compete agreement was signed, it might be restricted, but it often conflicts with professional freedom.
+Are anonymous forum posts copyrighted?	If the content is original, copyright is recognized regardless of the author's anonymity.
+Does an unexcused absence reduce retirement pay?	The low wage during the absence period may be included in the average wage calculation, reducing the retirement pay.
+Can I monitor employees with CCTV?	Monitoring employees solely for surveillance, rather than for security purposes, violates the Personal Information Protection Act.
+Can a judgment reversing a previous precedent be issued?	Yes. Precedents can change through Supreme Court en banc decisions as times change.
+Can wages be withheld for causing damage through gross negligence?	Liability for damages is separate; wages for work performed must be paid in full.
+Can a company look at my internal messenger contents?	Even for security, it is subject to strict standards as it may interfere with the employee's privacy.
+Are gig economy service drivers considered workers?	Precedents vary based on the degree of supervision, but there is a growing trend to recognize worker status.
+Is a design using a font, not the font file itself, an infringement?	Font designs themselves have low copyrightability, making infringement difficult to prove based on printed results alone.
+Is quoting drama lines in a blog post an infringement?	Short famous lines are usually okay, but mass quoting for profit constitutes an infringement.
+Can I use someone else's photo of a genuine product for resale?	Unless it's a photo you took yourself, it can constitute copyright infringement.
+Is the practice of not paying weekly holiday allowance to part-timers legal?	No. If legal conditions are met, it must be paid regardless of industry practices.
+What happens if holiday work and overtime overlap?	Higher-rate additional allowances may be paid through overlapping premiums.
+What if I am a freelancer but my commuting is managed?	Regardless of the title, if you perform subordinate work, you are considered a worker under the Act.
+How much does copyright registration cost?	According to the Korea Copyright Commission, it costs about 20,000 to 30,000 KRW for online registration.
+What if my writing was used for AI training?	Recent discussions on copyright law are ongoing, but currently, data mining exception rules are a point of contention.
+Do I get an additional allowance for working on Workers' Day?	Yes. Since Workers' Day is a paid holiday, holiday work allowance must be paid if you work.
+Does legal advice from a chatbot have legal force?	No. It is for reference only; specific disputes must be consulted with a legal expert.
