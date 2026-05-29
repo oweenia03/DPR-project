@@ -43,7 +43,7 @@
 
 ---
 
-## 📂 프로젝트 디렉토리 구조 (Directory Structure)
+## 📂 프로젝트 디렉토리 구조 (Directory Structure) (master branch)
 
 ```text
 ├── program/
@@ -52,13 +52,13 @@
 ├── data/
 │   ├── legal_qa_dataset.txt      # 구축된 한국어 법률 QA 데이터셋 (540쌍)
 │   └── legal_qa_dataset_en.txt   # 구축된 영어 법률 QA 데이터셋
-├── index/
-│   ├── law_knowledge.index    # 법령 및 판례 원문 FAISS 벡터 인덱스 파일
-│   └── metadata.pkl           # 인덱스 매칭용 법령 조문 메타데이터
+├── etc/
+│   ├── app.py                 # Streamlit 기반 실시간 웹 서비스 구동 프로그램
+│   └── drow_loss.py           # relu vs gelu model loss 그래프
 ├── models_v3_stable/
 │   └── 2_bundle_[lang].pkl    # relu 모델로 학습 완료된 하이브리드 트랜스포머 모델 번들 
-├── app.py                     # Streamlit 기반 실시간 웹 서비스 구동 스크립
-└── README.md                  # 프로젝트 설명 문서
+├── law_knowledge.index        # 법령 및 판례 원문 FAISS 벡터 인덱스 파일
+└── metadata.pkl               # 인덱스 매칭용 법령 조문 메타데이터
 ```
 ---
 
