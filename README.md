@@ -43,7 +43,7 @@
 
 ---
 
-## 📂 프로젝트 디렉토리 구조 (Directory Structure) (master branch)
+## 📂 프로젝트 디렉토리 구조 (Directory Structure) (DPR branch)
 
 ```text
 ├── program/
