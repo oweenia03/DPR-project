@@ -32,7 +32,7 @@
 ## 🧩 개발 환경 및 핵심 라이브러리 (Environment & Tools)
 
 - **OS**: Windows 10 
-- **Language & Environment**: Python 3.8+ / COLAB
+- **Language & Environment**: Python 3.8+ 
 - **Core Libraries**:
   - `torch==2.x` (Transformer 아키텍처 구현 및 학습)
   - `transformers` (KoGPT2, DialoGPT 토크나이저 및 임베딩 로드)
